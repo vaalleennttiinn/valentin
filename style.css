@@ -4,9 +4,10 @@ table {
     width: 70%;
     border-collapse: collapse;
     border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(193, 251, 232);
   }
 
-  th, td{
+  th, td, tr{
     border: 1px solid black;
     padding: 10px;
   }
